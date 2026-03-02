@@ -3,7 +3,7 @@
 # 🌸 Miyano Bot • Horimiya
 > Um bot inspirado no Miyano — calmo, elegante e sempre pronto pra ajudar.
 
-✨ **Rápido • Leve • Estiloso • Feito pra Termux**
+✨ **Rápido • Leve • Estiloso • Feito pra Nether-Host**
 
 </div>
 
